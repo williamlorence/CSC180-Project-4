@@ -1,0 +1,2 @@
+Added bidirectional layers
+Calculated best number of days to be used in input
